@@ -5,7 +5,9 @@ Web Developer
 -------------
 
 🚀 Hello, I'm Rano Mal, a Frontend Web Developer with expertise in React.JS at UGS. I have also completed the MERN Stack Bootcamp at Contour Software in Karachi, Pakistan. My journey into web development has been marked by a commitment to continuous learning and a dedication to crafting resonating digital experiences. 
-🌟 Highlights: Proven Problem-Solving, Leadership, and Management Skills - Developing a dynamic exercise tracker app using the MERN Stack - Eager to collaborate on cutting-edge web development projects. Let's code the future together! 💻✨
+
+🌟 Highlights: Proven Problem-Solving, Leadership, and Management Skills - Developing a dynamic exercise tracker app using the MERN Stack - Eager to collaborate on cutting-edge web development projects. 
+Let's code the future together! 💻✨
 
 *   🌍  I'm based in Karachi, Sindh Pakistan
 *   🖥️  See my portfolio at [My Portfolio](http://ranomalportfolio.netlify.app/)
